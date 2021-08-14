@@ -1,7 +1,5 @@
 package net.osgg.threadexample;
 
-import net.osgg.threadexample.ColourThread;
-
 /**
  * Hello world!
  *
